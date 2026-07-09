@@ -1,9 +1,7 @@
 # VariableAutonomyAndHumanControl
-VariableAutonomyAndHumanControl contains the R code, cleaned data, and reproducible analysis files for a study on variable autonomy, human control, and employee responses to AI-enabled systems. Authored by Amogha Ammava.
-
-# VariableAutonomyAndHumanControl
 
 This repository contains the data, R code, and supporting materials for the manuscript *Variable Autonomy and Human Control*. The project examines how variable autonomy is associated with employee reactions to AI-enabled systems, including willingness to use the system, objection to the system, positive affect, negative affect, and related appraisal processes.
+Authored by Amogha Ammava.
 
 ## Repository contents
 
